@@ -26,6 +26,12 @@ docker stop id
 ```
 
 
+browse container
+```
+docker exce -it <id> bash
+```
+
+
 All Command
 ```
 docker build
