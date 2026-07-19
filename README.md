@@ -31,6 +31,10 @@ browse container
 docker exce -it <id> bash
 ```
 
+Copy File From Docker
+```
+docker cp <id>:<file> <destination>
+```
 
 All Command
 ```
