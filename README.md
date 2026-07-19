@@ -1,11 +1,15 @@
 # Docker
 
 
-Port Mapping
+Port Mapping (-p)
 ```
 docker run -p 80:80 nginx
 ```
 
+Run In Background (-d)
+```
+docker run -d -p 80:80 nginx
+```
 
 ```
 docker build
