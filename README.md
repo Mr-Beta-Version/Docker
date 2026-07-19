@@ -1,5 +1,12 @@
 # Docker
 
+
+Port Mapping
+```
+docker run -p 80:80 nginx
+```
+
+
 ```
 docker build
 docker run
