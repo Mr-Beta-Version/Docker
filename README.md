@@ -20,6 +20,11 @@ Show all process
 docker process -a
 ```
 
+Stop Process
+```
+docker stop id
+```
+
 
 All Command
 ```
