@@ -11,10 +11,15 @@ Run In Background (-d)
 docker run -d -p 80:80 nginx
 ```
 
-Show Docker Process
+Show Running Docker Process
 ```
 docker ps
 ```
+Show all process
+```
+docker process -a
+```
+
 
 All Command
 ```
